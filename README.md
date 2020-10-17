@@ -1,4 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/sravyanew2/projectconsole/_apis/build/status/sravya998.ContosoAir?branchName=master)](https://dev.azure.com/sravyanew2/projectconsole/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
